@@ -25,7 +25,8 @@
     - 100% Secure
 <h1 align="center">TO HOST 𝕎𝟚ℍ𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/DEVIL-BOTS/Devil-UserBot">⚡ 𝕎 𝟚 ℍ 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
+<p align="center"><a href="https://t.me/Devil_Botz"> <img src="https://telegra.ph/file/92ebadfb63312ae563709.jpg" width="220" height="38.45"/></a></p>
+</a>
 
 ## Mandatory Vars
 
