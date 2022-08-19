@@ -24,7 +24,7 @@
 
     - String Session bot owned by the owner, so don't worry about banning
     - 100% Secure
-<h1 align="center">TO HOST 𝕎𝟚ℍ𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
+<h1 align="center">TO HOST Devil-UserBot LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
 <p align="center"><a href="https://t.me/Devil_Botz"> <img src="https://telegra.ph/file/92ebadfb63312ae563709.jpg" width="220" height="38.45"/></a></p>
 </a>
