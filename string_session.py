@@ -21,8 +21,8 @@ logo = """
 ╱╰╯╰╯╰━━━┻╯╱╰┻━━━┻━━━╯╱╰╯
 """
 baap_bolte = """
-#Legendary W2HBot          
-Made With Love By Team W2HBot
+#Legendary Devil-UserBot          
+Made With Love By Team DEVIL-BOTS
 """
                                                                                                             
 print("")
@@ -32,7 +32,7 @@ print(Style.BRIGHT + Fore.BLUE + logo)
 print(Style.RESET_ALL)
 print(Style.BRIGHT + Fore.CYAN + Back.BLUE + baap_bolte)
 print(Style.RESET_ALL)
-print("""Welcome To W2HBot String Generator By @W2HOwner""")
+print("""Welcome To Devil-UserBot String Generator By @ARG_GAMING_9300""")
 print("""Kindly Enter Your Details To Continue ! """)
 
 API_KEY = input("API_KEY: ")
@@ -46,11 +46,11 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @W2H_Userbot For Any Help !",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @DevilBotz_Support For Any Help !",
             )
 
             print(
-                "Thanks for Choosing W2HBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing Devil-UserBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
             )
     except:
         print("")
