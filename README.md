@@ -1,35 +1,28 @@
-<h1 align="center">⚡ 𝕎𝟚ℍ𝔹𝕠𝕥 ⚡</h1>
+<p align="center"><a href="https://t.me/Devil_Botz"> <img src="https://telegra.ph/file/92ebadfb63312ae563709.jpg" width="220" height="38.45"/></a></p>
+</a>
 
 
-<h2>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.
+<h2 align="center">Official Devil-Userbot made by @ARG_GAMING_9300. Enjoy Your Bot!!</h2 /a>
 
-This is the one and only official Devil-Userbot made by @ARG_GAMING_9300. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+[![W2HBot logo](https://telegra.ph/file/7a288583a47e08a6098b3.jpg)](https://t.me/Devil_Botz)
 
-[![W2HBot logo](https://telegra.ph/file/7a288583a47e08a6098b3.jpg)](https://t.me/W2H_Userbot)
+<h2 align="center">The owner would not be responsible for bans(Banning fixed, so don't worry about it).</h2>
 
-<h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
-
-<h1 align="center">FORK AT YOUR OWN RISK</h1>
 
 <h2 align="center">⚙️ D E P L O Y I N G ⚙️</h2>
 
 
 <h3> DEPLOY TO HEROKU </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DEVIL-BOTS/Devil-UserBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-grey?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-</a>
-
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ARGGAMING777/ARG-X-Alexia"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 <h3> StringSession </h3>
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/W2HBOT#main.py) 
-
-    - Click On Generate String
-    - Then Click On Green Run Button.
-    - Wait for a while then fill the details.
-    - String will be saved in your Saved Message.
+<p align="center"><a href="https://telegram.me/arg_stringsession_bot"> <img src="https://te.legra.ph/file/fd8bcb29b5475b84a939e.jpg" width="200" height="35.45"/></a></p>
 
 
+    - String Session bot owned by the owner, so don't worry about banning
+    - 100% Secure
 <h1 align="center">TO HOST 𝕎𝟚ℍ𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
 <h2 align="center"> <a href="https://github.com/DEVIL-BOTS/Devil-UserBot">⚡ 𝕎 𝟚 ℍ 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
