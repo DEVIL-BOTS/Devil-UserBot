@@ -47,19 +47,19 @@
 ```
 Get help regarding setting up 
 
-your W2HBot in our official 
+your Devil-UserBot in our official 
 
 support Group and get updates
 
 notifications in Update Channel.
 ```
 
-<a href="https://t.me/W2H_Userbot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Devil_Botz"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/W2HSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DevilBotz_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/David99q)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/ARG_GAMING_9300)
 
 
 <details>
@@ -70,7 +70,7 @@ notifications in Update Channel.
 
 Copyright (C) 2021 W2HGalaxy-OP
 
-Poject [W2HBot](https://github.com/W2HGalaxy-OP/W2HBot) is free software: you can redistribute it and/or modify
+Poject [Devil-UserBot](https://github.com/DEVIL-BOTS/Devil-UserBot) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
@@ -96,18 +96,4 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
   <summary> • Credits 🏅 • </summary>
   
-• [Galaxy-OP](https://github.com/W2HGalaxy-OP):DEV
-
-• [iisgaurav](https://github.com/iisgaurav):DEV
-
-• [AuraXBot](https://github.com/AuraXNetwork/AuraXBot)
-
-• [JaaduBot](https://github.com/Amberyt/JaaduBot)
-
-• [CatUserbot](https://github.com/sandy1709/catuserbot)
-
-• [MafiaBot](https://github.com/H1M4N5HU0P/MAFIA-BOT)
-
-• [HellBot](https://github.com/The-HellBot/hellbot)
-
-• [Uniborg](https://github.com/spechide/uniborg)
+• [DEVIL-BOTS](https://github.com/DEVIL-BOTS):Owner
