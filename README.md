@@ -4,7 +4,8 @@
 
 <h2 align="center">Official Devil-Userbot made by @ARG_GAMING_9300. Enjoy Your Bot!!</h2 /a>
 
-[![W2HBot logo](https://telegra.ph/file/7a288583a47e08a6098b3.jpg)](https://t.me/Devil_Botz)
+<p align="center"><a href="https://t.me/Devil_Botz"> <img src="https://te.legra.ph/file/4b62671afb697b5c46b29.jpg"/></a></p>
+</a>
 
 <h2 align="center">The owner would not be responsible for bans(Banning fixed, so don't worry about it).</h2>
 
