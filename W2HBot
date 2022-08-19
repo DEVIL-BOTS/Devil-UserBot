@@ -4,10 +4,10 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $W2H_REPO == "W2HBot" ]]
+    if [[ $W2H_REPO == "Devil-UserBot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1cySEdhbGF4eS1PUC9XMkhVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $W2H_REPO == "W2HBot" ]]
+    elif [[ $W2H_REPO == "Devil-UserBot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1cySEdhbGF4eS1PUC9XMkhVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $W2H_REPO =~ $regex ]]
@@ -26,7 +26,7 @@ _get_repolink () {
 
 _set_bot () {
     local zippath
-    zippath="W2HBot.zip"
+    zippath="Devil-UserBot.zip"
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
@@ -37,9 +37,9 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $W2HPATH
-    echo "    Starting W2HBot    "
+    echo "    Starting Devil-UserBot    "
     echo "
-    W2HBOT
+    Devil-UserBot
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
